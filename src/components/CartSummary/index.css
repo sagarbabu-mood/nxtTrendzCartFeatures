@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.cart-summary-container {
+  display: flex;
+  flex-direction: row-reverse;
+  font-family: 'Roboto';
+  color: #616e7c;
+}
+
+.amount {
+  color: #171f46;
+}
